@@ -1,0 +1,15 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+
+# Archivos del editor y sistema
+.vscode/
+.DS_Store
